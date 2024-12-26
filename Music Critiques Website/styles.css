@@ -1,0 +1,381 @@
+p {
+    font-family: verdana;
+    font-size: 15px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+ul {
+    font-size: 15px;
+    font-family: verdana;
+}
+
+li {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+ol {
+    font-size: 15px;
+    font-family: Verdana;
+    margin-top: 6px;
+}
+
+/*Star Image*/
+.star {
+    width: 15px;
+    height: 15px;
+}
+
+/*Second place medal image*/
+.medal {
+    width: 15px;
+    height: 15px;
+}
+
+.introline {
+    text-align: center;
+    color: blue;
+    font-family: times;
+    font-style: italic;
+}
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #2f0f0f;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #fefafa;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: rgb(0, 127, 127);
+    color: white;
+}
+
+
+
+.backg_main {
+    background-image: url(https://th.bing.com/th/id/OIP.FuidmFtgGGdfPn-lEYW5qwHaHI?pid=ImgDet&rs=1);
+}
+
+
+/*Makes the White continuous background for the main site body*/
+.bodyofsite {
+    background-color: white;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    max-width: 1000px;
+}
+
+h2 {
+    font-family: verdana;
+    font-style: italic;
+}
+
+
+/*opening Introduction paragraph*/
+.pintro1 {
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 5px;
+}
+
+
+/* Album cover Manipulations*/
+.ac {
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
+
+.accenter {
+    text-align: center;
+}
+
+/*Album title and ranking inline blocking*/
+.album_title h3 {
+    display: inline-block;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    margin-left: 10px;
+}
+
+.title {
+    text-align: left;
+    width: 45%;
+}
+
+.ranking {
+    text-align: right;
+    width: 51%;
+}
+
+
+
+/*Link color error correct*/
+.zzz {
+    color: whitesmoke;
+}
+
+.bbb {
+    color: black;
+}
+
+
+/*Background colors*/
+.tpab {
+    background-color: rgb(181, 175, 175);
+}
+
+.tdsotm {
+    color: white;
+    background-color: black;
+}
+
+.G {
+    background-color: rgb(254, 236, 213);
+}
+
+.gkmc {
+    background-color: rgb(213, 194, 179);
+}
+
+.tmeolh {
+    background-color: rgb(218, 179, 120);
+}
+
+.ar {
+    background-color: rgb(174, 219, 234);
+}
+
+.rumours {
+    background-color: whitesmoke;
+}
+
+.sitkol {
+    background-color: orangered;
+}
+
+.afp {
+    background-color: rgb(124, 108, 86);
+}
+
+.mv {
+    background-color: rgb(241, 231, 231);
+}
+
+.aw {
+    color: white;
+    background-color: black;
+}
+
+.lziv {
+    background-color: whitesmoke;
+}
+
+.etwt {
+    color: white;
+    background-color: rgb(14, 12, 12);
+}
+
+.hd {
+    background-color: rgb(134, 225, 134);
+}
+
+.bob {
+    background-color: rgb(213, 193, 165);
+}
+
+.bott {
+    background-color: rgb(90, 43, 43);
+    color: whitesmoke;
+}
+
+.VH {
+    background-color: rgb(33, 30, 30);
+    color: whitesmoke;
+}
+
+.csc {
+    background-color: rgb(230, 4, 4);
+    color: whitesmoke;
+}
+
+.trafozsatsfm {
+    background-color: rgb(35, 35, 84);
+    color: whitesmoke;
+}
+
+.tmmLP {
+    background-color: rgb(118, 116, 116);
+    color: rgb(21, 21, 21);
+}
+
+.afd {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.tvuan {
+    background-color: yellow;
+}
+
+.pbbs {
+    background-color: rgb(38, 1, 38);
+    color: whitesmoke
+}
+
+.wgo {
+    background-color: rgb(49, 124, 90);
+}
+
+.itanomthub {
+    background-color: rgb(20, 19, 19);
+    color: whitesmoke;
+}
+
+.targo {
+    background-color: rgb(175, 42, 42);
+    color: whitesmoke
+}
+
+.grodt {
+    color: whitesmoke;
+    background-color: rgb(69, 2, 2);
+}
+
+.bib {
+    color: whitesmoke;
+    background-color: black;
+}
+
+.mbdtf {
+    color: whitesmoke;
+    background-color: rgb(206, 13, 13);
+}
+
+.r {
+    background-color: tan;
+}
+
+.aeom {
+    color: white;
+    background-color: rgb(29, 27, 27);
+}
+
+.coo {
+    background-color: rgb(222, 217, 217);
+}
+
+.dl {
+    background: rgb(31, 29, 29);
+    color: whitesmoke;
+}
+
+.nvm {
+    background-color: rgb(83, 106, 167)
+}
+
+.mop {
+    background-color: silver;
+}
+
+.tqid {
+    background-color: rgb(18, 63, 25);
+    color: whitesmoke;
+}
+
+.tdtd {
+    background-color: #0c0505;
+    color: whitesmoke;
+}
+
+.i {
+    background: rgb(121, 94, 58);
+    color: whitesmoke;
+}
+
+.soc {
+    background: rgb(24, 21, 21);
+    color: whitesmoke;
+}
+
+.kob {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.sdf {
+    background-color: rgb(117, 36, 36);
+    color: whitesmoke;
+}
+
+.doo {
+    background-color: rgb(134, 121, 121);
+    color: rgb(17, 17, 17);
+}
+
+.pr {
+    background-color: rgb(209, 16, 209);
+    color: rgb(25, 25, 25);
+}
+
+.itcotck {
+    background-color: rgb(240, 119, 139);
+}
+
+.grad {
+    background-color: rgb(217, 104, 217);
+}
+
+.blond {
+    background-color: rgb(220, 216, 216);
+}
+
+.ii {
+    background-color: rgb(137, 137, 233);
+}
+
+.tds {
+    background-color: rgb(223, 223, 149);
+}
+
+/*table manipulation*/
+th {
+    font-size: 20px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    font-size: 18px;
+    text-align: center;
+}
+
+tr:hover {
+    background-color: #D6EEEE;
+}
